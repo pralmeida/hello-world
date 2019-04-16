@@ -6,3 +6,5 @@ Hello world GitHub Guide
 - In the editor, write a bit about yourself.
 - Write a commitmessage that describes your changes.
 - Click <strong>Commit changes</strong> button.
+
+This is a new line blah blah blah
